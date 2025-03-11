@@ -1,0 +1,24 @@
+scanme.nmap.org
+ipconfig -> local ip 
+what is my ip-> public ip
+whois ip lookup->for info ipaddress
+APSTNDP->OSI model
+
+
+inurl:(site) filetype:(type) --> this will search the particulaar file type in particular website 
+
+"ambani" & "ratan"  --> as a result it returns images and videos with these people
+
+"ambani" | "ratan"  --> as a result it returns image of either first or second person
+
+inurl:(site) -(word) --> it returns website contents and results without content related to that word 
+
+"cybersecurity" | & "penetration" insite:(site) --> return results of these two topic related content on particular site 
+
+allinttext:password filetype:log  --> return the password log file if there are any leaked databases files 
+ 
+db_password filetype:env inurl:(site) --> its also work as same as the above but it will search in particular website
+
+
+
+"elon musk" & "mark zuckerberg"
